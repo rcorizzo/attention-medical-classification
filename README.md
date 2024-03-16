@@ -1,4 +1,6 @@
 # Attention-Based Medical Knowledge Injection in Deep Image Classification Models
+## Yaning Wu, Nathalie Japkowicz, Sebastien Gilbert, Roberto Corizzo
+
 This repository contains the implementation of experiments about Attention-Based Medical Knowledge Injection in Deep Image Classification. The appendix of this paper can be accessed through [View PDF](docs/Appendix_Medical_Attention.pdf)
 
 ## Data preparation
